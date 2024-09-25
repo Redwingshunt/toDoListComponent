@@ -1,0 +1,25 @@
+body{
+
+    background-color: purple;
+    color: yellow;
+}
+
+
+.h1-heading{
+
+    font: 100;
+    color: blue;
+    text-shadow: 15px 22px 5px brown ;
+
+    }
+.to-do-list{
+
+text-align: center;
+
+}
+.delete-button, .moveUp-button, .moveDown-button{
+
+    height: 5em;
+    width: 5em;
+    margin-left: 10px;
+}
